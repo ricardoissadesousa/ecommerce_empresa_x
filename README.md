@@ -12,4 +12,13 @@ _checkout, **Tela de produto**, Catalago, home com banner_
 ###### Melhorias do projetos:
 __melhorias 1__ , _melhoria 2_ 
 
+### lingaugens do projetos:
+
+* HTML
+* CSS
+*JavaScript
+*PHP
+*MySQL
+
+
 
