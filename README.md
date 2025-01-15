@@ -20,5 +20,10 @@ __melhorias 1__ , _melhoria 2_
 * PHP
 * MySQL
 
+### Funcionalidades a desenvolver:
+
+1. Area de membros
+2. Integração com outros pagamentos
+3. Sistema de Bonus primeira compra 
 
 
