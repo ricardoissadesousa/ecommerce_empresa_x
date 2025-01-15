@@ -32,4 +32,7 @@ __melhorias 1__ , _melhoria 2_
 ### Imagem local
 ![Logo do Python](img/pny.png)
 
+#### Imagem externa 
+![logo do PHP](https://www.google.com/imgres?q=logo%20do%20PHP&imgurl=https%3A%2F%2Fwww.logotypes101.com%2Flogos%2F203%2F272663FA02DE2DAA2BBAE2FC39F14783%2Fphp.png&imgrefurl=https%3A%2F%2Fwww.logotypes101.com%2Flogo%2Fphp-1&docid=aXsfTgt7Q5o_1M&tbnid=LUi7hVrbHOzR-M&vet=12ahUKEwjK-NfV8_iKAxVnCrkGHVyfBYAQM3oECFYQAA..i&w=1024&h=1024&hcb=2&ved=2ahUKEwjK-NfV8_iKAxVnCrkGHVyfBYAQM3oECFYQAA)
+
 
