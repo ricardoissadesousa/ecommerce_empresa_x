@@ -38,4 +38,8 @@ __melhorias 1__ , _melhoria 2_
 ## Linkes interessantes:
 
 [Google](https://www.google.com)
-[https://www.horadecodar.com.br]
+
+
+[https://www.horadecodar.com.br](https://www.horadecodar.com.br)
+
+Contribuidor Principal : https://.github.com/ricardoissadesousa 
