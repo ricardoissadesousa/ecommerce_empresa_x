@@ -5,10 +5,11 @@ Vamos criar um **e-commecer**, oara a *empresa X*  e etc..
 ## Funcionalidades
 
 
-checkout, Tela de produto, Catalago, home com banner
+_checkout, **Tela de produto**, Catalago, home com banner_
 
+**checkout, _Tela de produto_, Catalago, home com banner**
 
 ###### Melhorias do projetos:
-melhorias 1 , melhoria 2 
+__melhorias 1__ , _melhoria 2_ 
 
 
