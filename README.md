@@ -43,3 +43,11 @@ __melhorias 1__ , _melhoria 2_
 [https://www.horadecodar.com.br](https://www.horadecodar.com.br)
 
 Contribuidor Principal : https://github.com/ricardoissadesousa 
+
+## codigo da função soma 
+
+```javascript
+function soma (a,b){
+    return a + b ;
+}
+```
